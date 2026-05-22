@@ -27,4 +27,9 @@ The most difficult part for me was setting up Atlas, Heroku, and fixing the GitH
 https://transactions2-dan-cf29122d2ae6.herokuapp.com
 
 #10# Successful Postman Requests
-Screenshots of successful GET and POST requests are included with the submission.
+<img width="1097" height="1217" alt="image" src="https://github.com/user-attachments/assets/71a3857b-9ea6-4fd9-80c4-38b871dc8b46" />
+<img width="1055" height="1139" alt="image" src="https://github.com/user-attachments/assets/a6660f1a-4ae6-4380-b20b-a9b591f0c062" />
+<img width="1102" height="1160" alt="image" src="https://github.com/user-attachments/assets/756943a2-63c8-4287-858c-c51d19a402a6" />
+
+
+
